@@ -23,14 +23,14 @@ h1 {
   font-family: 'Roboto Slab', serif;
   font-weight: bolder;
   font-size: 50px;
-  margin: 0px;
+  margin: 0;
 }
 
 .info h2 {
   font-family: 'Roboto Slab', serif;
   font-weight: lighter;
   font-size: 35px;
-  margin: 5px 0px;
+  margin: 5px 0;
 }
 
 .box {
