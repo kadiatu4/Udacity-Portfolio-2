@@ -133,3 +133,10 @@ footer {
  }
 
 }
+@media screen and (min-width: 1200px){
+  .banner {
+    width: 1026px;
+    margin: 5px auto;
+
+ }
+}
